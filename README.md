@@ -9,6 +9,11 @@ This is for layout sticker in random order and use it for a certain purpose.
 
 这个脚本可以把一些表情包随机排列，然后输出到一个图片上，你可以把这个图片打印出来，然后用于某些场景。
 ![output](sample_usage/output_march7th.jpg)
+
+If you don't want the huge sample image `output_march7th.png`, don't clone it, just download the `layout.py` and install `pillow`.
+
+如果你不需要这张硕大的例图 `output_march7th.png`，那就不要下载整个仓库，下载 `layout.py` 并安装 `pillow` 就好。
+
 For example, you can print it and use it on a camera. Say~Cheese~
 
 比如贴到相机上。懂不懂赵相机的含金量。
