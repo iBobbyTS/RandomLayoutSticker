@@ -14,7 +14,7 @@ If you don't want the huge sample image `output_march7th.png`, don't clone it, j
 
 如果你不需要这张硕大的例图 `output_march7th.png`，那就不要下载整个仓库，下载 `layout.py` 并安装 `pillow` 就好。
 
-For example, you can print it and use it on a camera. Say~Cheese~
+For example, you can print it and use it on a camera. Say\~Cheese\~
 
 比如贴到相机上。懂不懂赵相机的含金量。
 ![赵相机](sample_usage/march7th.jpg)
