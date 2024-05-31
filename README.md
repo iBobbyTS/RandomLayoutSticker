@@ -27,9 +27,9 @@ For example, you can print it and use it on a camera or a lens. Say\~Cheese\~
 ![赵相机](sample_usage/march7th.jpg)
 
 ## Usage 使用方法
-1. Put the stickers in a folder, say "input".
+1. Put the stickers in a folder, say "input". (Recommended to download stickers from miHoYo on HoYoLab)
 
-    把表情包放到一个文件夹里，比如 "input"。
+    把表情包放到一个文件夹里，比如 "input"。（米家的表情包建议从米游社下载）
 2. Install necessary libraries
 
    安装必要的python库
