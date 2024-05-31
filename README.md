@@ -11,8 +11,8 @@ This is for layout sticker in random order and use it for a certain purpose.
 ![output](sample_usage/output_march7th.jpg)
 
 
-I'll soon build a website for making this kind of sticker, no coding technique is needed. 
-我会尽快做一个网站来制作这样的贴纸，这样大家要用饿时候就不需要写代码了。
+I'll soon build a website for making this kind of sticker, no coding technique is needed. (May include stickers of characters in Star Rail and Genshin Impact from HoYoLab)
+我会尽快做一个网站来制作这样的贴纸，这样大家要用饿时候就不需要写代码了。（可能会内置来自米游社的星铁、原神角色表情包）
 
 
 If you don't want the huge sample image `output_march7th.png`, don't clone it, just download the `layout.py` and install `pillow`.
