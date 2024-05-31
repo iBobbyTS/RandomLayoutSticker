@@ -6,7 +6,7 @@ import numpy as np
 # Arguments
 inp_path = 'input_march7th'  # abs/rel path to the folder with images
 out_name = 'output_march7th'  # abs/rel path to the output image without extension, image will be saved as output.png and output.tif
-bg_color = (147, 220, 255)  # march7th
+bg_color = (147, 220, 255)  # RGB color for background, this color is for March 7th
 padding = 1.3  # padding factor
 lines = 10  # number of lines
 cols = 16  # number of columns
